@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../../public/begin-bg.jpg'
+import image from 'begin-bg.jpg'
 
 const Begin = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import logoFound from '../../public/notfound.avif';
+import logoFound from 'notfound.avif';
 import { Link } from 'react-router-dom';
 import PageTitle from '../components/PageTitle';
 
