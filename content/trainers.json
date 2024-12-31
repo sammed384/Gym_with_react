@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image" : "../src/assets/1.jpg",
+        "image" : "../src/assets/trainer1.avif",
         "title" : "Paul D. Newman",
         "title2": "Power Trainer",
         "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
