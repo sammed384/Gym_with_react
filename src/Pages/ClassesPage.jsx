@@ -1,6 +1,7 @@
 import React from 'react'
-import Classes from '../Components/Classes'
-import PageTitle from '../components/PageTitle'
+
+import PageTitle from '../components/PageTitle';
+import Classes from '../components/Classes';
 
 const ClassesPage = () => {
   return (
