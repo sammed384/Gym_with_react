@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image" : "/public/icon.png",
+        "image" : "/icon.png",
         "title" : "Basic Fitness",
         "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
         "link" : "Discover more"
