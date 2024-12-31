@@ -1,5 +1,5 @@
 {
     "header" : "Our Classes", 
-    "image" : "../src/assets/line-dec.png",      
+    "image" : "../../public/line-dec.png",      
     "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque dolorem quod saepe quidem voluptatum ex, perferendis praesentium reiciendis! "
 }
