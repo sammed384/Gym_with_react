@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* humber menu  */
+.humburger {
+  cursor: pointer;
+  width: 24px;
+  height: 20px;
+  transition: all .25s;
+  position: relative;
+}
+
+.top,
+.bottom,
+.middle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 2.5px;
+  border-radius: 50px;
+  background-color: #000;
+  transform: rotate(0);
+}
+
+.middle {
+  transform: translateY(8px);
+}
+
+.bottom {
+  transform: translateY(16px);
+}
+
+.active {
+  transform: rotate(90deg);
+  transform: translateY(0);
+}
+
+.active .top {
+  transform: rotate(45deg) translateY(8px) translate(8px);
+}
+
+.active .middle {
+  display: none;
+}
+
+.active .bottom {
+  transform: rotate(-45deg) translateY(8px) translate(-8px);
+}
+
+
+.not-found {
+  margin-left: 45rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+/* CSS */
+.btn {
+background-color: transparent;
+border: 2px solid #1A1A1A;
+border-radius: 15px;
+box-sizing: border-box;
+color: #3B3B3B;
+cursor: pointer;
+display: block;
+margin-left: 65rem;
+margin-bottom: 20px;
+font-size: 16px;
+font-weight: 600;
+line-height: normal;
+min-height: 60px;
+min-width: 0;
+outline: none;
+padding: 16px 24px;
+text-align: center;
+text-decoration: none;
+transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+width: 7%;
+will-change: transform;
+}
+
+.btn:disabled {
+pointer-events: none;
+}
+
+.btn:hover {
+color: #fff;
+background-color: #1A1A1A;
+box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+transform: translateY(-2px);
+}
+
+.btn:active {
+box-shadow: none;
+transform: translateY(0);
+}
+
+a {
+  text-decoration: none;
+  color: #1A1A1A;
+}
+
+a:hover {
+  color: white;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image" : "../src/assets/icon.png",
+        "title" : "Basic Fitness",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    },
+    {
+        "id": 2,
+        "image" : "../src/assets/icon.png",
+        "title" : "Advanced Muscle Course",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    },
+    {
+        "id": 3,
+        "image" : "../src/assets/icon.png",
+        "title" : "New Gym Training",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    },
+    {
+        "id": 4,
+        "image" : "../src/assets/icon.png",
+        "title" : "Yoga Training",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    },
+    {
+        "id": 5,
+        "image" : "../src/assets/icon.png",
+        "title" : "Basic Muscle Course",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    },
+    {
+        "id": 6,
+        "image" : "../src/assets/icon.png",
+        "title" : "Body Building Course",
+        "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
+        "link" : "Discover more"
+    }
+]
