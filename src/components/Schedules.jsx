@@ -1,7 +1,7 @@
 import React from 'react';
 import schedulesHeader from '../../content/schedulesHeader.json';
 import schedulesTable from '../../content/schedulesTable.json';
-import image from 'schedule-bg.jpg';
+import image from '/schedule-bg.jpg';
 
 const Schedules = () => {
   return (

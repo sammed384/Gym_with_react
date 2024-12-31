@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image" : "1.jpg",
+        "image" : "/1.jpg",
         "title" : "Paul D. Newman",
         "title2": "Power Trainer",
         "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "image" : "2.jpg",
+        "image" : "/2.jpg",
         "title" : "Bret D. Bowers",
         "title2": "Muscle Trainer",
         "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 3,
-        "image" : "3.jpg",
+        "image" : "./3.jpg",
         "title" : "Hector T. Daigl",
         "title2": "Strength Trainer",
         "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quaerat consectetur qui assumenda incidunt accusamus.",
