@@ -1,5 +1,5 @@
 {
     "header" : "Expert Trainers", 
-    "image" : "../../public/line-dec.png",      
+    "image" : "./line-dec.png",      
     "subtitle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque dolorem quod saepe quidem voluptatum ex, perferendis praesentium reiciendis! "
 }
